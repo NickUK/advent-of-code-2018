@@ -1,4 +1,4 @@
-# Day 7 part 1+2
+# Day 7 part 2
 
 from functools import reduce
 
