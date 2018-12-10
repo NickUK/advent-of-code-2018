@@ -41,7 +41,7 @@ def plot(points, step, h, w):
 	
   res = False
   
-  # If it fis between out bounds, print it out
+  # If it fis between the bounds, print it out
   if max_y - min_y <= h and max_x - min_x <= w:
     array = numpy.zeros((h, w))
     res = True
